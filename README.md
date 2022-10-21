@@ -18,6 +18,6 @@ I am a computer science major with a minor in applied mathematics, having develo
 
 Check out my personal projects:
 
-1️⃣PORTFOLIO WEBSITE: Developed https://insiya-raja.com. My responsive, mobile-first personal portfolio website, built using HTML, CSS, JavaScript and bootstrap    framework.
+1️⃣PORTFOLIO WEBSITE: Developed https://insiya-raja.com. My responsive, mobile-first personal portfolio website, built using HTML, CSS, JavaScript and bootstrap framework.
 
-2️⃣TO-DO LIST WEB APP: Used ReactJS to develop a front-end to manage a To-do list of day-to-day chores. Learnt the fundamentals of ReactJS and the use of its functional components to design an intuitive UI.
+2️⃣TO-DO LIST WEB APP: Used ReactJS to develop https://insiya-raja.com/to-do/. A front-end to manage a To-do list of day-to-day chores. Learned the fundamentals of ReactJS, the use of its functional components, react hooks, material UI and local storage session management to design an intuitive UI.
