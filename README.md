@@ -28,15 +28,15 @@ I’m a **Computer Science student at Texas State University** passionate about 
 ---
 
 ## 🏆 Featured Projects
-### **🚀 Azure Data Engineering Pipeline (Aug 2024 - Nov 2024)**
+### **🚀 Azure Data Engineering Pipeline**
 🔹 Built a scalable ETL pipeline using **Azure Data Factory, Databricks, and Synapse Analytics** for big data processing.  
 🔹 Integrated Power BI for **real-time analytics and reporting**.  
 
-### **🤖 AI-Powered Teaching Assistant (May 2024 - Dec 2024)**
+### **🤖 AI-Powered Teaching Assistant**
 🔹 Fine-tuned NLP models to improve AI response accuracy by **30% for technical interview prep**.  
 🔹 Achieved **85% relevance in context-based AI-generated explanations**.  
 
-### **📊 Power BI & Tableau Dashboards (Feb 2023 - Mar 2023)**
+### **📊 Power BI & Tableau Dashboards**
 🔹 Developed **interactive Netflix viewership & stock market dashboards** with **dynamic KPIs & charts**.  
 🔹 Provided data-driven insights into streaming trends and **sales forecasting for e-commerce**.  
 
