@@ -1,4 +1,4 @@
-# Hi there, I'm Insiya Raja! 👋
+# Hello there, I'm Insiya Raja! 👋
 
 🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Developer**  
 📍 San Marcos, TX  
