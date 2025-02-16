@@ -1,53 +1,73 @@
+# Hi there, I'm Insiya Raja! 👋
 
+🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Developer**  
+📍 San Marcos, TX  
+📫 **Email:** [rajainsiya24@gmail.com](mailto:rajainsiya24@gmail.com)  
+🔗 **Portfolio:** [InsiyaRaja.com](https://InsiyaRaja.com)  
+🔗 **LinkedIn:** [linkedin.com/in/insiya-raja24](https://linkedin.com/in/insiya-raja24)  
+🔗 **GitHub:** [github.com/insiya2414](https://github.com/insiya2414)  
 
-<!--
-**insiya2414/insiya2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
+I’m a **Computer Science student at Texas State University** passionate about **AI, machine learning, data analytics, and full-stack development**. From building **AI-powered career readiness assistants** to designing **interactive dashboards with Power BI & Tableau**, I love solving **real-world problems with data**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Degree:** B.S. in Computer Science (GPA: 3.89/4.0)  
+🏆 **Honors & Awards:** TXST Distinguished Scholar | Dean’s List | Alpha Lambda Delta Honors Society  
+🛠️ **Certifications:** Microsoft Certified Azure Data Scientist | Python Programming Masterclass  
 
+---
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+## 🔥 Tech Stack & Skills
+### **Languages & Tools**
+🖥️ Python • SQL • Java • C++ • R • JavaScript • HTML5/CSS3  
+📊 Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Jupyter Notebook  
+🤖 TensorFlow • PyTorch • Scikit-learn • OpenCV • Hugging Face (NLP)  
+☁️ GitHub • API Integration • Azure • AWS • Databricks • MySQL Workbench  
 
-# Hey, I'm [Insiya Raja!](https://github.com/insiya2414) 👋
-I am a computer science major with a minor in applied mathematics, having development experience utilizing multiple programming languages. I wish to enhance my knowledge in computers and gain expertise in it to be able to design softwares that would ease human efforts.😎
-<br/>
-<br/>
+---
 
-[![GitHub](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=github)](https://github.com/insiya2414)
-[![HackerRank](https://img.shields.io/badge/HackerRank-darkblue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/dashboard)
-[![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https:https://www.linkedin.com/in/insiya-raja24/) 
-[![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajainsiya24@gmail.com)
+## 🏆 Featured Projects
+### **🚀 Azure Data Engineering Pipeline (Aug 2024 - Nov 2024)**
+🔹 Built a scalable ETL pipeline using **Azure Data Factory, Databricks, and Synapse Analytics** for big data processing.  
+🔹 Integrated Power BI for **real-time analytics and reporting**.  
 
-Check out my personal projects:
+### **🤖 AI-Powered Teaching Assistant (May 2024 - Dec 2024)**
+🔹 Fine-tuned NLP models to improve AI response accuracy by **30% for technical interview prep**.  
+🔹 Achieved **85% relevance in context-based AI-generated explanations**.  
 
-1️⃣PORTFOLIO WEBSITE: Developed https://insiya-raja.com. My responsive, mobile-first personal portfolio website built using HTML, CSS, JavaScript and bootstrap framework.
+### **📊 Power BI & Tableau Dashboards (Feb 2023 - Mar 2023)**
+🔹 Developed **interactive Netflix viewership & stock market dashboards** with **dynamic KPIs & charts**.  
+🔹 Provided data-driven insights into streaming trends and **sales forecasting for e-commerce**.  
 
-2️⃣TO-DO LIST WEB APP: Used ReactJS to develop https://insiya-raja.com/to-do/. A front-end to manage a To-do list of day-to-day chores. Learned the fundamentals of ReactJS, the use of its functional components, react hooks, material UI and local storage session management to design an intuitive UI.
+More Projects 👉 **[Check out my GitHub!](https://github.com/insiya2414)**
 
-<h2> Tech Skills 👨‍💻 </h2>
-<div>
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/tableau-%23150458.svg?style=for-the-badge&logo=tableau&logoColor=white">
-</div>
+---
 
-<h2> Upskilling 🌱</h2>
-<div>
-    <img alt="Python" src ="https://img.shields.io/badge/Python-%234ea94b.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="AI" src="https://img.shields.io/badge/AI-%230072C6.svg?style=for-the-badge&logo=AI-devops&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</div>
+## 💼 Experience
+### **🔬 Research Analyst (May 2024 - Dec 2024)**
+📍 Center for Analytics and Data Science, TXST  
+🔹 Analyzed **1M+ national healthcare records** to identify **cost-efficient care strategies**.  
+🔹 Assisted PhD students in publishing **3+ research papers** using **Python, R & Power BI**.  
 
+### **📡 Student Assistant (Nov 2023 - May 2024)**
+📍 Ingram School of Engineering (AIT Lab)  
+🔹 Conducted **literature reviews & GIS-based transportation analysis**.  
+
+### **📚 STEM Tutor (Aug 2023 - Dec 2023)**
+📍 TXST Student Support Services  
+🔹 Mentored **50+ students**, boosting grades by **two-letter improvements**.  
+
+---
+
+## 🎭 Activities & Achievements
+✅ **Active Member:** SWE | ACM | TXST Computer Science Club (.EXE)  
+🏆 **Winner:** Best Product at **Boko Hacks** | 1st Prize **Chevron Track at Rice Datathon** | 1st Prize undergraduate category **Texas State University 2025 Datathon**  
+🌟 **Mentor:** Girls Who Code & AI4ALL Diversity Initiatives  
+🎤 **Speaker:** ALD National Conference & SWE Conference Chicago 2024  
+
+---
+
+## 📫 Let's Connect!
+💬 Open to **internships, collaborations, and hackathons**! Feel free to reach out.  
+🚀 Let's build something amazing together!  
