@@ -3,7 +3,7 @@
 🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Developer**  
 📍 San Marcos, TX  
 📫 **Email:** [rajainsiya24@gmail.com](mailto:rajainsiya24@gmail.com)  
-🔗 **Portfolio:** [InsiyaRaja.com](https://InsiyaRaja.com)  
+🔗 **Portfolio:** [InsiyaRaja.com]([https://InsiyaRaja.com](https://personal-portfolio-backend-hllu.onrender.com/)
 🔗 **LinkedIn:** [linkedin.com/in/insiya-raja24](https://linkedin.com/in/insiya-raja24)  
 🔗 **GitHub:** [github.com/insiya2414](https://github.com/insiya2414)  
 
@@ -43,31 +43,3 @@ I’m a **Computer Science student at Texas State University** passionate about 
 More Projects 👉 **[Check out my GitHub!](https://github.com/insiya2414)**
 
 ---
-
-## 💼 Experience
-### **🔬 Research Analyst (May 2024 - Dec 2024)**
-📍 Center for Analytics and Data Science, TXST  
-🔹 Analyzed **1M+ national healthcare records** to identify **cost-efficient care strategies**.  
-🔹 Assisted PhD students in publishing **3+ research papers** using **Python, R & Power BI**.  
-
-### **📡 Student Assistant (Nov 2023 - May 2024)**
-📍 Ingram School of Engineering (AIT Lab)  
-🔹 Conducted **literature reviews & GIS-based transportation analysis**.  
-
-### **📚 STEM Tutor (Aug 2023 - Dec 2023)**
-📍 TXST Student Support Services  
-🔹 Mentored **50+ students**, boosting grades by **two-letter improvements**.  
-
----
-
-## 🎭 Activities & Achievements
-✅ **Active Member:** SWE | ACM | TXST Computer Science Club (.EXE)  
-🏆 **Winner:** Best Product at **Boko Hacks** | 1st Prize **Chevron Track at Rice Datathon** | 1st Prize undergraduate category **Texas State University 2025 Datathon**  
-🌟 **Mentor:** Girls Who Code & AI4ALL Diversity Initiatives  
-🎤 **Speaker:** ALD National Conference & SWE Conference Chicago 2024  
-
----
-
-## 📫 Let's Connect!
-💬 Open to **internships, collaborations, and hackathons**! Feel free to reach out.  
-🚀 Let's build something amazing together!  
