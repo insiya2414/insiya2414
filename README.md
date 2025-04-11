@@ -1,11 +1,12 @@
-# Hello there, I'm Insiya Raja! 👋
+# 👋 Hello there, I'm Insiya Raja!
 
-🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Developer**  
+🚀 **Aspiring Data Scientist** | **AI & ML Enthusiast** | **Full-Stack Developer**  
 📍 San Marcos, TX  
 📫 **Email:** [rajainsiya24@gmail.com](mailto:rajainsiya24@gmail.com)  
-🔗 **Portfolio:** [InsiyaRaja.com]([https://InsiyaRaja.com](https://personal-portfolio-backend-hllu.onrender.com/)
+🌐 **Portfolio:** [InsiyaRaja.com](https://personal-portfolio-backend-hllu.onrender.com/)  
 🔗 **LinkedIn:** [linkedin.com/in/insiya-raja24](https://linkedin.com/in/insiya-raja24)  
-🔗 **GitHub:** [github.com/insiya2414](https://github.com/insiya2414)  
+💻 **GitHub:** [github.com/insiya2414](https://github.com/insiya2414)
+
 
 ---
 
