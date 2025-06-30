@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Insiya Raja!
 
 🚀 **Aspiring Data Scientist** | **AI & ML Enthusiast** | **Full-Stack Developer**  
-📍 San Marcos, TX  
+📍 Dallas, TX  
 📫 **Email:** [rajainsiya24@gmail.com](mailto:rajainsiya24@gmail.com)  
 🌐 **Portfolio:** [InsiyaRaja.com](https://personal-portfolio-backend-hllu.onrender.com/)  
 🔗 **LinkedIn:** [linkedin.com/in/insiya-raja24](https://linkedin.com/in/insiya-raja24)  
@@ -13,7 +13,7 @@
 ## 🌟 About Me
 I’m a **Computer Science student at Texas State University** passionate about **AI, machine learning, data analytics, and full-stack development**. From building **AI-powered career readiness assistants** to designing **interactive dashboards with Power BI & Tableau**, I love solving **real-world problems with data**. 
 
-🎓 **Degree:** B.S. in Computer Science (GPA: 3.89/4.0)  
+🎓 **Degree:** B.S. in Computer Science (GPA: 3.87/4.0)  
 🏆 **Honors & Awards:** TXST Distinguished Scholar | Dean’s List | Alpha Lambda Delta Honors Society  
 🛠️ **Certifications:** Microsoft Certified Azure Data Scientist | Python Programming Masterclass  
 
